@@ -1,0 +1,216 @@
+.kattaa {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Main {
+
+    display: flex;
+
+    width: 100%;
+    height: 100px;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+}
+
+.b {
+    display: flex;
+    width: 100%;
+    height: 300px;
+    gap: 10px;
+    padding: 10px;
+    display: flex;
+
+}
+
+.rasm {
+    width: 100%;
+    height: 40%;
+    background-color: transparent;
+
+}
+
+.Bobur {
+    width: 100%;
+    height: 100%;
+}
+
+.profil {
+    position: absolute;
+    left: 400px;
+    top: 320px;
+}
+
+.edit {
+    position: absolute;
+    left: 1290px;
+    top: 420px;
+    background-color: transparent;
+    border: 2px solid black;
+    color: black;
+}
+
+.name {
+    background-color: transparent;
+    height: 30%;
+}
+
+h2 {
+    padding: 70px 0px 0px 70px;
+}
+
+.pp {
+    padding: 0px 0px 0px 70px;
+    margin-top: -20px;
+}
+
+.ux {
+    padding: 0px 0px 0px 70px;
+
+}
+
+.lakatsia {
+    width: 100%;
+    height: 30%;
+    background-color: transparent;
+    display: flex;
+
+    justify-content: space-between;
+
+}
+
+.follow {
+    width: 50%;
+    height: 30%;
+    background-color: transparent;
+    display: flex;
+}
+
+.f {
+    width: 40%;
+    display: flex;
+    height: 30%;
+    background-color: transparent;
+    justify-content: center;
+
+}
+
+.s {
+    width: 30%;
+    height: 30%;
+    display: flex;
+
+    text-align: center;
+}
+
+.s h5 {
+    padding: 0px 10px 0px 0px;
+    margin-top: 18px;
+}
+
+.twets {
+    width: 99%;
+    height: 30%;
+    background-color: transparent;
+    display: flex;
+
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.w {
+    padding: 0px 0px 0px 70px;
+}
+
+.Bobur {
+    display: flex;
+    padding: 10px;
+
+}
+
+.img1 {
+    width: 130px;
+    height: 90px;
+    padding: 0px 0px 0px 50px;
+}
+
+.name2 {
+    width: 100%;
+    height: 30%;
+    gap: 10px;
+    display: flex;
+    padding: 20px 0px 0px 0px;
+
+}
+
+.bbb {
+    margin: 0px 0px 0px 20px;
+}
+
+.name3 {
+    background-color: transparent;
+    width: 80%;
+    height: 20%;
+    margin: -30px 20px 0px 10px;
+    padding: 0px 0px 0px 10px;
+}
+
+.kurss {
+    font-size: 17px;
+}
+
+.name4 {
+    width: 90%;
+    height: 30%;
+    background-color: transparent;
+    padding: 20px 0px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.img2 {
+    width: 100px;
+    height: 90px;
+    padding: 0px 0px 0px 50px;
+}
+
+.name5 {
+    width: 90%;
+    height: 50%;
+    background-color: transparent;
+    padding: 100px 0px 10px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img3 {
+    width: 120px;
+    height: 90px;
+    padding: 0px 0px 0px 50px;
+}
+
+.name7 {
+    width: 60%;
+    height: 50%;
+    background-color: transparent;
+    padding: 400px 0px 0px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.name8 {
+    width: 100%;
+    height: 80%;
+
+}

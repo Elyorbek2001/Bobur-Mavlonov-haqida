@@ -1,0 +1,45 @@
+.katta {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 30%;
+
+}
+
+.yon {
+
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(251, 251, 251);
+
+
+}
+
+
+
+
+li {
+
+    width: 90%;
+    height: 100%;
+    list-style: none;
+    padding: 10px 20px;
+
+}
+
+
+
+button {
+    padding: 10px 50px;
+    background: #1D9BF0;
+
+    border-radius: 27.5px;
+    border: none;
+    color: white;
+
+}
+
+.img {
+    padding: 10px 20px;
+}
